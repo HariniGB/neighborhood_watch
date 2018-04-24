@@ -1,10 +1,7 @@
 ### neighborhood_watch
 
-## Members
-* Fei Li: lifangfei
+## Member
 * Harini Balakrishnan: hariniGB
-* Brian Wong: lil-boat
-* Eli Berger: erberger22
 
 ## Description of Project
 An app that uses user supplied data to inform of potential hazards to pedestrians in the immidiate area of the user. 
